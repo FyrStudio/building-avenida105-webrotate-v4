@@ -1,0 +1,1924 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/Aerea360000005.jpg?t=1761917637" />
+    <userInterface showProgressPulse="false" showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#000000" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" showProgressBar="true" skin="basic" />
+    <control dragSpeed="0.21" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" />
+    <rotation firstImage="5" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" autoPlayOnDragRelease="false" />
+  </settings>
+  <hotspots>
+    <hotspot id="MASTERPLAN C. FIGUEIRA" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Masterplan Casa Figueira.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="DIFERENCIAIS DO BAIRRO" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Diferenciais do Bairro.png?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="ACESSO SHOPPING" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Acesso Shopping.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="PASSEIO" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Passeio.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="TERMINAL DE ONIBUS" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Terminal ônibus.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="PARQUE" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Parque.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="VIAS" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Vias.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="FACHADA 1" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Fachada 1.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="FACHADA 2" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Fachada 2.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="FACHADA 3" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Fachada 3.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="IMPLANTAÇÃO 1" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/implantação 1.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="IMPLANTAÇÃO 2" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Implantação 2.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="BRISES" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Brises.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="PAISAGISMO " renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Paisagismo.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="PISCINA" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Piscina.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="CASA DE FESTAS" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Casa de festas.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="PARQUINHO NATURALIZADO" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Parquinho naturalizado.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="ESTARES" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Estares.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="PRAÇA MOLHADA" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Praça molhada.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="ACADEMIA EXTERNA" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Academia externa.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="PET PLACE" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Espaço Pet.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="ARENA DE AREIA" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Arena de areia.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="FLORESTA DE BOLSO" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Floresta de bolso.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="PRAÇA GRAMADA" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Praça gramada.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="INTERNAS 1" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Internas 1.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="INTERNAS 2" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Internas 2.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+    <hotspot id="INTERNAS 3" renderMode="1" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true" deactivateOnClick="true" effects="pulseSimple,2000" margin="0,0,0,0" align="center,center">
+      <spotinfo src="images/spots/Internas 3.jpg?t=1761917637" imgBkColor="#000000" imgWidth="2880" />
+    </hotspot>
+  </hotspots>
+  <images rows="1" highresWidth="3840" highresHeight="2160">
+    <image src="images/Aerea360000000.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000000.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000001.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000001.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000002.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000002.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000003.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000003.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000004.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000004.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000005.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000005.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000006.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000006.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000007.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000007.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000008.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000008.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000009.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000009.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000010.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000010.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000011.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000011.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000012.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000012.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000013.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000013.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000014.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000014.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000015.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000015.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000016.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000016.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000017.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000017.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000018.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000018.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000019.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000019.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000020.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000020.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000021.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000021.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000022.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000022.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000023.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000023.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000024.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000024.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000025.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000025.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000026.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000026.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000027.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000027.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000028.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000028.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000029.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000029.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000030.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000030.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000031.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000031.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000032.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000032.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000033.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000033.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000034.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000034.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000035.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000035.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000036.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000036.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000037.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000037.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000038.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000038.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000039.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000039.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000040.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000040.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000041.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000041.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000042.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000042.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000043.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000043.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000044.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000044.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000045.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000045.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000046.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000046.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000047.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000047.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000048.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000048.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000049.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000049.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000050.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000050.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000051.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000051.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000052.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000052.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000053.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000053.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000054.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000054.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000055.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000055.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000056.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000056.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000057.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000057.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000058.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000058.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000059.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000059.jpg?t=1761917637" />
+    </image>
+    <image src="images/Aerea360000060.jpg?t=1761917637">
+      <hotspot source="MASTERPLAN C. FIGUEIRA" offsetX="97" offsetY="62" />
+      <hotspot source="DIFERENCIAIS DO BAIRRO" offsetX="95" offsetY="136" />
+      <hotspot source="ACESSO SHOPPING" offsetX="97" offsetY="209" />
+      <hotspot source="PASSEIO" offsetX="95" offsetY="282" />
+      <hotspot source="TERMINAL DE ONIBUS" offsetX="97" offsetY="357" />
+      <hotspot source="PARQUE" offsetX="95" offsetY="430" />
+      <hotspot source="VIAS" offsetX="95" offsetY="503" />
+      <hotspot source="FACHADA 1" offsetX="95" offsetY="577" />
+      <hotspot source="FACHADA 2" offsetX="97" offsetY="650" />
+      <hotspot source="FACHADA 3" offsetX="95" offsetY="723" />
+      <hotspot source="IMPLANTAÇÃO 1" offsetX="97" offsetY="798" />
+      <hotspot source="IMPLANTAÇÃO 2" offsetX="95" offsetY="869" />
+      <hotspot source="BRISES" offsetX="97" offsetY="945" />
+      <hotspot source="PAISAGISMO " offsetX="95" offsetY="1018" />
+      <hotspot source="PISCINA" offsetX="1824" offsetY="100" />
+      <hotspot source="CASA DE FESTAS" offsetX="1824" offsetY="173" />
+      <hotspot source="PARQUINHO NATURALIZADO" offsetX="1824" offsetY="246" />
+      <hotspot source="ESTARES" offsetX="1824" offsetY="319" />
+      <hotspot source="PRAÇA MOLHADA" offsetX="1822" offsetY="393" />
+      <hotspot source="ACADEMIA EXTERNA" offsetX="1822" offsetY="466" />
+      <hotspot source="PET PLACE" offsetX="1822" offsetY="539" />
+      <hotspot source="ARENA DE AREIA" offsetX="1822" offsetY="615" />
+      <hotspot source="FLORESTA DE BOLSO" offsetX="1822" offsetY="685" />
+      <hotspot source="PRAÇA GRAMADA" offsetX="1822" offsetY="761" />
+      <hotspot source="INTERNAS 1" offsetX="1824" offsetY="833" />
+      <hotspot source="INTERNAS 2" offsetX="1822" offsetY="904" />
+      <hotspot source="INTERNAS 3" offsetX="1822" offsetY="982" />
+      <highres src="images/highres/Aerea360000060.jpg?t=1761917637" />
+    </image>
+  </images>
+</config>
